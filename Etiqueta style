@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estilos</title>
+</head>
+<body style="background-color: rgb( 200,100,20 ) ;">
+    <!--En esta página vamos a explicar los estilos-->
+    <h1 style="color: rgb( 20,100,200 );font-size: 50 px;"> Introducción a los estilos</h1>
+    <h2 style="font-family: Arial, Helvetica, sans-serif;"> Atributo style </h2>
+    <p style="color:#11ff33"> 
+        el atributo style sirve para 
+        aplicar formato a través del 
+        lenguaje CSS
+    </p>
+
+
+
+    <h1>Formato de texto ( se puede hacer con CSS )
+    </h1>
+    <p><b>Esto es un texto en negrita no se recomienda 
+        ya usar esta etiqueta, se debe utilizar CSS
+    </b></p>
+    <p><Strong>Esto es texto IMPORTANTE, se ve igual que
+        la negrita
+    </Strong></p>
+    <p><i>
+
+        La etiqueta i de itálica ( cursiva ) 
+        tampoco debe utilizarse
+
+    </i></p>
+<!-- -->
+    <p>
+        Esto es <em> texto enfatizado </em> parecido a 
+        la cursiva pero con más significado de enfasis, 
+        más correcto
+    </p>
+    <p>
+        la etiqueta de mark se utiliza para <mark> remarcar un texto 
+        </mark>
+    </p>
+    <p>Texto <del> eliminado </del></p>
+    <p>Texto <ins>Insertado</ins> significa que se ha añadido. Estas etiquetas si que son
+    correctas porque tienen significado, no es solo el formato, el formato
+    se hace con CSS
+</p>
+<p> Ejemplo de subindices: n <sub>1</sub>=m<sub>n-1</sub> + 2 </p>
+<p>Ejemplo de subindices: e=m ·c <sup>2</sup>
+
+</p>
+
+</body>
+</html>
